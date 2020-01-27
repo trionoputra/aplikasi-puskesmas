@@ -2,11 +2,11 @@
 
 Aplikasi <b>PUSKESMAS</b> sederhana berbasis desktop, dibuat mengunakan <b>VISUAL STUDIO 2010</b> dengan bahasa pemrograman <b>VB.NET</b> dan database SQL SERVER 2008.
 
-<img src="PAGE1.PNG" width="250" alt="Aplikasi Puskesmas Sederhana"></img>
-<img src="PAGE2.PNG" width="250" alt="Aplikasi Puskesmas Sederhana"></img><br/>
+<img src="PAGE1.PNG" width="400" alt="Aplikasi Puskesmas Sederhana"></img>
+<img src="PAGE2.PNG" width="400" alt="Aplikasi Puskesmas Sederhana"></img><br/>
 
-<img src="PAGE3.PNG" width="250" alt="Aplikasi Puskesmas Sederhana"></img>
-<img src="PAGE4.PNG" width="250" alt="Aplikasi Puskesmas Sederhana"></img>
+<img src="PAGE3.PNG" width="400" alt="Aplikasi Puskesmas Sederhana"></img>
+<img src="PAGE4.PNG" width="400" alt="Aplikasi Puskesmas Sederhana"></img>
 
 ## Fitur
 #### Login
@@ -36,3 +36,4 @@ Aplikasi <b>PUSKESMAS</b> sederhana berbasis desktop, dibuat mengunakan <b>VISUA
 - Laporan Pendapatan
 - Laporan Resep
 - Laporan Setoran
+#### SETTING CHANGE PASSWORD
