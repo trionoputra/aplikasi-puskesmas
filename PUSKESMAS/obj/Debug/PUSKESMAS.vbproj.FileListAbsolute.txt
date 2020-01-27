@@ -1,0 +1,251 @@
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe.config
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.pdb
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.xml
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormKepalaKeluarga.resources
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.menuutama.resources
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.Resources.resources
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbproj.GenerateResource.Cache
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.exe
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.xml
+c:\users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.pdb
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ReportViewer.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupDok.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupObat.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisUmum.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRegistrasi.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupTindakan.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPoli.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPasien.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupKK.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPembayaran.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSehat.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSakit.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratRujukan.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormResep.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisUmum.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormObat.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTindakan.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRegistrasi.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDokter.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPasien.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPoli.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDetailObat.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ChangePassword.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LoginForm.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupResep.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisBumil.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormUser.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisBumil.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTebusResep.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjungan.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPendapatan.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPasienBaru.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjunganHarian.resources
+C:\Users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatExpired.resources
+C:\Users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanSetoran.resources
+C:\Users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepHarian.resources
+C:\Users\noi\documents\visual studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepPerperiode.resources
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbprojResolveAssemblyReference.cache
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe.config
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.pdb
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.xml
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjungan.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPendapatan.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPasienBaru.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjunganHarian.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatExpired.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanSetoran.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepHarian.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepPerperiode.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ChangePassword.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LoginForm.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ReportViewer.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupDok.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupObat.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupResep.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisBumil.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisUmum.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRegistrasi.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupTindakan.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPoli.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPasien.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupKK.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDetailObat.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormUser.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPembayaran.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormAntenatalcare.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisBumil.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTebusResep.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSehat.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSakit.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratRujukan.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormResep.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisUmum.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormObat.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTindakan.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRegistrasi.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDokter.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPasien.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPoli.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormKepalaKeluarga.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.menuutama.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.Resources.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbproj.GenerateResource.Cache
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.exe
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.xml
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.pdb
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatHampirAbis.resources
+C:\Users\Lontong\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbprojResolveAssemblyReference.cache
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe.config
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.exe
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.xml
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.pdb
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.pdb
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.xml
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbprojResolveAssemblyReference.cache
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjungan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatHampirAbis.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPendapatan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPasienBaru.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjunganHarian.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatExpired.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanSetoran.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepHarian.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepPerperiode.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ChangePassword.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LoginForm.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ReportViewer.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupDok.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupObat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupResep.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisBumil.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisUmum.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRegistrasi.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupTindakan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPoli.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPasien.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupKK.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDetailObat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormUser.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPembayaran.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisBumil.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTebusResep.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSehat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSakit.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratRujukan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormResep.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisUmum.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormObat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTindakan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRegistrasi.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDokter.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPasien.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPoli.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormKepalaKeluarga.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.menuutama.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.Resources.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbproj.GenerateResource.Cache
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe.config
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.exe
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.xml
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.pdb
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.pdb
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.xml
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbprojResolveAssemblyReference.cache
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjungan.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatHampirAbis.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPendapatan.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPasienBaru.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjunganHarian.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatExpired.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanSetoran.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepHarian.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepPerperiode.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ChangePassword.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LoginForm.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ReportViewer.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupDok.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupObat.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupResep.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisBumil.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisUmum.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRegistrasi.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupTindakan.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPoli.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPasien.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupKK.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDetailObat.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormUser.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPembayaran.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisBumil.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTebusResep.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSehat.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSakit.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratRujukan.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormResep.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisUmum.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormObat.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTindakan.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRegistrasi.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDokter.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPasien.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPoli.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormKepalaKeluarga.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.menuutama.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.Resources.resources
+C:\Users\eka.kurnia\Documents\Visual Studio 2013\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbproj.GenerateResource.Cache
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe.config
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.exe
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.xml
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.pdb
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.exe
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.pdb
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\bin\Debug\PUSKESMAS.xml
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbprojResolveAssemblyReference.cache
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjungan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatHampirAbis.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPendapatan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanPasienBaru.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanKunjunganHarian.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatExpired.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanSetoran.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepHarian.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanResepPerperiode.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ChangePassword.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LoginForm.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.ReportViewer.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupDok.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupObat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupResep.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisBumil.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRekammedisUmum.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupRegistrasi.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupTindakan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPoli.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupPasien.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.LookupKK.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDetailObat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormUser.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPembayaran.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisBumil.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTebusResep.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSehat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratSakit.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormSuratRujukan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormResep.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRekamMedisUmum.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormObat.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormTindakan.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormRegistrasi.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormDokter.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPasien.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormPoli.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.FormKepalaKeluarga.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.menuutama.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.Resources.resources
+D:\SKRIPSI\PROGRAM_APLIKASI\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.vbproj.GenerateResource.Cache
+C:\Users\noi\Documents\Visual Studio 2012\Projects\PUSKESMAS\PUSKESMAS\obj\Debug\PUSKESMAS.CetakLaporanObatHampirAbis.resources

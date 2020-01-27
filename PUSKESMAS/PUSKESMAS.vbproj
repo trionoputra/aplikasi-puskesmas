@@ -1,0 +1,706 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E167DBD-9B60-4B13-8FD5-FDE7B1F91916}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PUSKESMAS.My.MyApplication</StartupObject>
+    <RootNamespace>PUSKESMAS</RootNamespace>
+    <AssemblyName>PUSKESMAS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PUSKESMAS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PUSKESMAS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection\Conn.vb" />
+    <Compile Include="Connection\Connection.vb" />
+    <Compile Include="Entity\Kwitansi.vb" />
+    <Compile Include="Entity\DetailObat.vb" />
+    <Compile Include="Entity\RekamMedisBumil.vb" />
+    <Compile Include="Entity\SuratSehat.vb" />
+    <Compile Include="Entity\SuratSakit.vb" />
+    <Compile Include="Entity\SuratRujukan.vb" />
+    <Compile Include="Entity\Resep.vb" />
+    <Compile Include="Entity\Obat.vb" />
+    <Compile Include="Entity\User.vb" />
+    <Compile Include="Entity\Tindakan.vb" />
+    <Compile Include="Entity\RekamMedisUmum.vb" />
+    <Compile Include="Entity\Registrasi.vb" />
+    <Compile Include="Entity\Dokter.vb" />
+    <Compile Include="Entity\Pasien.vb" />
+    <Compile Include="Entity\Poli.vb" />
+    <Compile Include="Entity\KK.vb" />
+    <Compile Include="View\Laporan\CetakLaporanKunjungan.Designer.vb">
+      <DependentUpon>CetakLaporanKunjungan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanKunjungan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanObatHampirAbis.Designer.vb">
+      <DependentUpon>CetakLaporanObatHampirAbis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanObatHampirAbis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanPendapatan.Designer.vb">
+      <DependentUpon>CetakLaporanPendapatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanPendapatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanPasienBaru.Designer.vb">
+      <DependentUpon>CetakLaporanPasienBaru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanPasienBaru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanKunjunganHarian.Designer.vb">
+      <DependentUpon>CetakLaporanKunjunganHarian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanKunjunganHarian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanObatExpired.Designer.vb">
+      <DependentUpon>CetakLaporanObatExpired.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanObatExpired.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanSetoran.Designer.vb">
+      <DependentUpon>CetakLaporanSetoran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanSetoran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanResepHarian.Designer.vb">
+      <DependentUpon>CetakLaporanResepHarian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanResepHarian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanResepPerperiode.Designer.vb">
+      <DependentUpon>CetakLaporanResepPerperiode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\CetakLaporanResepPerperiode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptObatHampirAbis.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptObatHampirAbis.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptResepHarian.vb">
+      <DependentUpon>RptResepHarian.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptResepPerPeriode1.vb">
+      <DependentUpon>RptResepPerPeriode.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptSetoran.vb">
+      <DependentUpon>RptSetoran.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptKunjunganHarian.vb">
+      <DependentUpon>RptKunjunganHarian.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptPasienBaru.vb">
+      <DependentUpon>RptPasienBaru.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Utils\ChangePassword.Designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Utils\ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Utils\LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Utils\LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\DetailObatModel.vb" />
+    <Compile Include="Model\RekamMedisBumilModel.vb" />
+    <Compile Include="Model\SuratSehatModel.vb" />
+    <Compile Include="Model\KwitansiModel.vb" />
+    <Compile Include="Model\UserModel.vb" />
+    <Compile Include="puskesmasDataSet.vb">
+      <DependentUpon>puskesmasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\ReportViewer.Designer.vb">
+      <DependentUpon>ReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Laporan\ReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptKartuPengunjung.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptKartuPengunjung.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptPendapatan.vb">
+      <DependentUpon>RptPendapatan.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptObatExpired.vb">
+      <DependentUpon>RptObatExpired.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptKwitansi.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptKwitansi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptRegistrasi.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptRegistrasi.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptResep.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptResep.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptKunjunganPasien.vb">
+      <DependentUpon>RptKunjunganPasien.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptSuratSehat.vb">
+      <DependentUpon>RptSuratSehat.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptSuratSakit.vb">
+      <DependentUpon>RptSuratSakit.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="View\Laporan\rpt\RptSuratRujukan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptSuratRujukan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupDok.Designer.vb">
+      <DependentUpon>LookupDok.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupDok.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupObat.Designer.vb">
+      <DependentUpon>LookupObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupResep.Designer.vb">
+      <DependentUpon>LookupResep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupResep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupRekammedisBumil.Designer.vb">
+      <DependentUpon>LookupRekammedisBumil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupRekammedisBumil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupRekammedisUmum.Designer.vb">
+      <DependentUpon>LookupRekammedisUmum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupRekammedisUmum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupRegistrasi.Designer.vb">
+      <DependentUpon>LookupRegistrasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupRegistrasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupTindakan.Designer.vb">
+      <DependentUpon>LookupTindakan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupTindakan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupPoli.Designer.vb">
+      <DependentUpon>LookupPoli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupPoli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\lookup\LookupPasien.Designer.vb">
+      <DependentUpon>LookupPasien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupPasien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\ObatModel.vb" />
+    <Compile Include="Model\SuratSakitModel.vb" />
+    <Compile Include="Model\SuratRujukanModel.vb" />
+    <Compile Include="Model\ResepModel.vb" />
+    <Compile Include="Model\RekamMedisUmumModel.vb" />
+    <Compile Include="Model\TindakanModel.vb" />
+    <Compile Include="Model\RegistrasiModel.vb" />
+    <Compile Include="Model\DokterModel.vb" />
+    <Compile Include="Modul1.vb" />
+    <Compile Include="View\lookup\LookupKK.Designer.vb">
+      <DependentUpon>LookupKK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\lookup\LookupKK.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="puskesmasDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>puskesmasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormDetailObat.Designer.vb">
+      <DependentUpon>FormDetailObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormDetailObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Master\FormUser.Designer.vb">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormPembayaran.Designer.vb">
+      <DependentUpon>FormPembayaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormPembayaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormRekamMedisBumil.Designer.vb">
+      <DependentUpon>FormRekamMedisBumil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormRekamMedisBumil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormTebusResep.Designer.vb">
+      <DependentUpon>FormTebusResep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormTebusResep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormSuratSehat.Designer.vb">
+      <DependentUpon>FormSuratSehat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormSuratSehat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormSuratSakit.Designer.vb">
+      <DependentUpon>FormSuratSakit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormSuratSakit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormSuratRujukan.Designer.vb">
+      <DependentUpon>FormSuratRujukan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormSuratRujukan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormResep.Designer.vb">
+      <DependentUpon>FormResep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormResep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormRekamMedisUmum.Designer.vb">
+      <DependentUpon>FormRekamMedisUmum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormRekamMedisUmum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Master\FormObat.Designer.vb">
+      <DependentUpon>FormObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Master\FormTindakan.Designer.vb">
+      <DependentUpon>FormTindakan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormTindakan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Transaksi\FormRegistrasi.Designer.vb">
+      <DependentUpon>FormRegistrasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Transaksi\FormRegistrasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Master\FormDokter.Designer.vb">
+      <DependentUpon>FormDokter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormDokter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Master\FormPasien.Designer.vb">
+      <DependentUpon>FormPasien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormPasien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Master\FormPoli.Designer.vb">
+      <DependentUpon>FormPoli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormPoli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Master\FormKepalaKeluarga.Designer.vb">
+      <DependentUpon>FormKepalaKeluarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Master\FormKepalaKeluarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Utils\MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Utils\MenuUtama.Designer.vb">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\PasienModel.vb" />
+    <Compile Include="Model\PoliModel.vb" />
+    <Compile Include="Model\KKModel.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanKunjungan.resx">
+      <DependentUpon>CetakLaporanKunjungan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanObatHampirAbis.resx">
+      <DependentUpon>CetakLaporanObatHampirAbis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanPendapatan.resx">
+      <DependentUpon>CetakLaporanPendapatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanPasienBaru.resx">
+      <DependentUpon>CetakLaporanPasienBaru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanKunjunganHarian.resx">
+      <DependentUpon>CetakLaporanKunjunganHarian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanObatExpired.resx">
+      <DependentUpon>CetakLaporanObatExpired.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanSetoran.resx">
+      <DependentUpon>CetakLaporanSetoran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanResepHarian.resx">
+      <DependentUpon>CetakLaporanResepHarian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\CetakLaporanResepPerperiode.resx">
+      <DependentUpon>CetakLaporanResepPerperiode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptObatHampirAbis.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptObatHampirAbis.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptResepHarian.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptResepHarian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptResepPerPeriode.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptResepPerPeriode1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptSetoran.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptSetoran.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptKunjunganHarian.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptKunjunganHarian.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptPasienBaru.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptPasienBaru.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Utils\ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Utils\LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\ReportViewer.resx">
+      <DependentUpon>ReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptKartuPengunjung.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptKartuPengunjung.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptPendapatan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptPendapatan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptObatExpired.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptObatExpired.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptKwitansi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptKwitansi.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptRegistrasi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptRegistrasi.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptResep.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptResep.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptKunjunganPasien.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptKunjunganPasien.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptSuratSehat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptSuratSehat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptSuratSakit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptSuratSakit.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Laporan\rpt\RptSuratRujukan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptSuratRujukan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupDok.resx">
+      <DependentUpon>LookupDok.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupObat.resx">
+      <DependentUpon>LookupObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupResep.resx">
+      <DependentUpon>LookupResep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupRekammedisBumil.resx">
+      <DependentUpon>LookupRekammedisBumil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupRekammedisUmum.resx">
+      <DependentUpon>LookupRekammedisUmum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupRegistrasi.resx">
+      <DependentUpon>LookupRegistrasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupTindakan.resx">
+      <DependentUpon>LookupTindakan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupPoli.resx">
+      <DependentUpon>LookupPoli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupPasien.resx">
+      <DependentUpon>LookupPasien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\lookup\LookupKK.resx">
+      <DependentUpon>LookupKK.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormDetailObat.resx">
+      <DependentUpon>FormDetailObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormUser.resx">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormPembayaran.resx">
+      <DependentUpon>FormPembayaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormRekamMedisBumil.resx">
+      <DependentUpon>FormRekamMedisBumil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormTebusResep.resx">
+      <DependentUpon>FormTebusResep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormSuratSehat.resx">
+      <DependentUpon>FormSuratSehat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormSuratSakit.resx">
+      <DependentUpon>FormSuratSakit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormSuratRujukan.resx">
+      <DependentUpon>FormSuratRujukan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormResep.resx">
+      <DependentUpon>FormResep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormRekamMedisUmum.resx">
+      <DependentUpon>FormRekamMedisUmum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormObat.resx">
+      <DependentUpon>FormObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormTindakan.resx">
+      <DependentUpon>FormTindakan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Transaksi\FormRegistrasi.resx">
+      <DependentUpon>FormRegistrasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormDokter.resx">
+      <DependentUpon>FormDokter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormPasien.resx">
+      <DependentUpon>FormPasien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormPoli.resx">
+      <DependentUpon>FormPoli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Master\FormKepalaKeluarga.resx">
+      <DependentUpon>FormKepalaKeluarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Utils\MenuUtama.resx">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="puskesmasDataSet.xsc">
+      <DependentUpon>puskesmasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="puskesmasDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>puskesmasDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="puskesmasDataSet.xss">
+      <DependentUpon>puskesmasDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

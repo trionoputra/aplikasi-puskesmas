@@ -1,0 +1,208 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PUSKESMAS
+</name>
+</assembly>
+<members>
+<member name="T:PUSKESMAS.puskesmasDataSet.kartuPengunjungDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.registrasiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.resepDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.kwitansiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratRujukanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratSakitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratSehatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.KunjunganPasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.PendapatanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.PasienBaruDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.KunjunganHarianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.ObatExpiredDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SetoranDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.LapResepDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.stokObatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.kartuPengunjungRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.registrasiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.resepRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.kwitansiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratRujukanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratSakitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratSehatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.KunjunganPasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.PendapatanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.PasienBaruRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.KunjunganHarianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.ObatExpiredRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SetoranRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.LapResepRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.stokObatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.kartuPengunjungRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.registrasiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.resepRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.kwitansiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratRujukanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratSakitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SuratSehatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.KunjunganPasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.PendapatanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.PasienBaruRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.KunjunganHarianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.ObatExpiredRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.SetoranRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.LapResepRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet.stokObatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUSKESMAS.puskesmasDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:PUSKESMAS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PUSKESMAS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PUSKESMAS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
